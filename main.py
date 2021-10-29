@@ -14,10 +14,10 @@ Obj = GambelQuiz(name,system)
 Obj.questions()
 
 
+# to find the answers once everyome complets
+# arr = list(db.keys
 
-# to find the answers once everyome completes
-# arr = list(db.keys())
-# for i in arr:
+# for i in ar 
 #   print(f"{i}:{db[i]}") 
 
 
